@@ -1,0 +1,284 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.title{
+height: 10vh;
+text-align: center;
+font-size: 60px;
+padding-top: 15px;
+}
+.d-flex {
+    border: none;
+    background: none;
+    cursor: pointer;
+    display: inline-block;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    font-size: 30px;
+   
+
+    
+}
+.d-flex button{
+    border: none;
+    background: none;
+    cursor: pointer;
+    display: inline-block;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    font-size: 30px;
+   margin-left: 50px;
+}
+
+
+.carousel-caption h5{
+ font-size: 40px;
+ color: aliceblue;
+}
+.carousel-caption button{
+    border-radius:30px;
+    border: none;
+    width: 8vw;
+    height: 5vh;
+    background-color: rgb(13, 14, 14);
+    color: aliceblue;
+    font-size: 18px;
+    font-weight:600;
+}
+.box1{
+    height:80vh ;
+    width: 100vw;
+    display: flex;
+
+}
+.box2{
+    height:80vh ;
+    width: 100vw;
+    display: flex;
+
+} 
+.box3{
+    height:80vh ;
+   width: 100vw;
+    display: flex;
+
+} 
+
+.left1{
+height: 80vh;
+width: 45vw;
+background-color: blue;
+ margin-left: 60px;
+ border-radius: 30px;
+ display: flex;
+}
+.left2{
+height: 80vh;
+width: 45vw;
+background-color: blue;
+ margin-left: 60px;
+ border-radius: 30px;
+ display: flex;
+}
+.left3{
+    height: 80vh;
+    width: 45vw;
+    background-color: blue;
+ margin-left: 60px;
+ border-radius: 30px;
+ display: flex;
+}
+.left1 img{
+background-size: contain;
+border-radius: 30px;
+
+}
+.left2 img{
+    background-size: contain;
+    border-radius: 30px;
+    
+}
+.left3 img{
+    background-size: contain;
+    border-radius: 30px;
+    
+}
+.right1{
+    height: 80vh;
+    width: 45vw;
+    border-radius: 30px;
+    display: flex;
+   flex-wrap: wrap;
+    gap: 10px;
+    margin-left: 20px;  
+}
+.card1{
+        width: 20vw;
+        height:40vh;
+        background-color: brown;
+     display: flex;
+     border-radius: 30px;
+     margin-left: 30px;
+
+}   
+.card2{
+        width: 20vw;
+        height:40vh;
+        background-color: brown;
+     display: flex;
+     border-radius: 30px;
+     margin-left: 10px;
+ }    
+    .card3{
+        width: 20vw;
+        height:40vh;
+        background-color: brown;
+        display: flex;
+     border-radius: 30px;
+     margin-left: 30px;
+     }   
+    .card4{
+        width: 20vw;
+        height:40vh;
+        background-color: brown;
+     display: flex;
+     border-radius: 30px;
+     margin-left: 10px;
+     
+    }  
+    .card1 img{
+   background-size: contain;
+    border-radius: 30px;
+    }
+    .card2 img{
+        background-size: contain;
+         border-radius: 30px;
+         } 
+    .card3 img{
+    background-size: contain;
+    border-radius: 30px;
+    } 
+    .card4 img{
+     background-size: contain;
+      border-radius: 30px;
+     } 
+     .right2{
+        height: 80vh;
+        width: 45vw;
+       border-radius: 30px;
+        display: flex;
+       flex-wrap: wrap;
+        gap: 10px;
+        margin-left: 20px;
+     }
+    .c1{
+        width: 20vw;
+        height:40vh;
+        background-color: brown;
+     display: flex;
+     border-radius: 30px;
+     margin-left: 10px;  
+    }
+.c2{
+    width: 20vw;
+    height:40vh;
+    background-color: brown;
+ display: flex;
+ border-radius: 30px;
+ margin-left: 10px;  
+}
+.c3{
+    width: 20vw;
+    height:40vh;
+    background-color: brown;
+ display: flex;
+ border-radius: 30px;
+ margin-left: 10px;  
+}
+
+.c4{
+    width: 20vw;
+    height:40vh;
+    background-color: brown;
+ display: flex;
+ border-radius: 30px;
+ margin-left: 10px;  
+}
+.c1 img{
+    background-size: contain;
+     border-radius: 30px;
+    } 
+.c2img{
+    background-size: contain;
+    border-radius: 30px;
+ } 
+.c3 img{
+  background-size: contain;
+ border-radius: 30px;
+ }         
+ .c4img{              
+     background-size: contain;
+    border-radius: 30px;
+} 
+.right3{
+    height: 80vh;
+    width: 45vw;
+    border-radius: 30px;
+    display: flex;
+   flex-wrap: wrap;
+    gap: 10px;
+    margin-left: 20px;
+ }
+.c1{
+    width: 20vw;
+    height:40vh;
+    background-color: brown;
+ display: flex;
+ border-radius: 30px;
+ margin-left: 10px;  
+}
+.c2{
+width: 20vw;
+height:40vh;
+background-color: brown;
+display: flex;
+border-radius: 30px;
+margin-left: 10px;  
+}
+.c3{
+width: 20vw;
+height:40vh;
+background-color: brown;
+display: flex;
+border-radius: 30px;
+margin-left: 10px;  
+}
+
+.c4{
+width: 20vw;
+height:40vh;
+background-color: brown;
+display: flex;
+border-radius: 30px;
+margin-left: 10px;  
+}
+.c1 img{
+background-size: contain;
+ border-radius: 30px;
+} 
+.c2img{
+background-size: contain;
+border-radius: 30px;
+} 
+.c3 img{
+background-size: contain;
+border-radius: 30px;
+}         
+.c4img{              
+ background-size: contain;
+border-radius: 30px;
+} 
+

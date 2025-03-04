@@ -1,0 +1,51 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.cont-in1{
+    height: 7vh;
+   text-align: center;
+ font-size: 60px;
+}
+
+
+.d-flex {
+    border: none;
+    background: none;
+    cursor: pointer;
+    display: inline-block;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    font-size: 25px;
+   
+
+    
+}
+.d-flex button{
+    border: none;
+    background: none;
+    cursor: pointer;
+    display: inline-block;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    font-size: 25px;
+   margin-left: 30px;
+}
+
+
+.carousel-caption h5{
+ font-size: 40px;
+ color: aliceblue;
+}
+.carousel-caption button{
+    border-radius:30px;
+    border: none;
+    width: 8vw;
+    height: 5vh;
+    background-color: rgb(13, 14, 14);
+    color: aliceblue;
+    font-size: 18px;
+    font-weight:600;
+}

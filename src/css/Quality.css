@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.tags h2{
+font-size: 40px;
+text-align: center;
+ height: 10vh;
+ }
+ .section{
+    height: 50vh;
+    width: 100vw;
+    background-color: aquamarine;
+
+ }
+ .sec img{
+    background-size: 100% 100%;
+    height: 60vh;
+   
+
+ }
